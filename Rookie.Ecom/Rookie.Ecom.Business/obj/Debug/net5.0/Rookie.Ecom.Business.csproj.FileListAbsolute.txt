@@ -1,0 +1,17 @@
+C:\Users\Minh Ngoc\Desktop\Rookie.Ecom\Rookie.Ecom.Business\bin\Debug\net5.0\Rookie.Ecom.Business.deps.json
+C:\Users\Minh Ngoc\Desktop\Rookie.Ecom\Rookie.Ecom.Business\bin\Debug\net5.0\Rookie.Ecom.Business.dll
+C:\Users\Minh Ngoc\Desktop\Rookie.Ecom\Rookie.Ecom.Business\bin\Debug\net5.0\ref\Rookie.Ecom.Business.dll
+C:\Users\Minh Ngoc\Desktop\Rookie.Ecom\Rookie.Ecom.Business\bin\Debug\net5.0\Rookie.Ecom.Business.pdb
+C:\Users\Minh Ngoc\Desktop\Rookie.Ecom\Rookie.Ecom.Business\bin\Debug\net5.0\Rookie.Ecom.Contracts.dll
+C:\Users\Minh Ngoc\Desktop\Rookie.Ecom\Rookie.Ecom.Business\bin\Debug\net5.0\Rookie.Ecom.DataAccessor.dll
+C:\Users\Minh Ngoc\Desktop\Rookie.Ecom\Rookie.Ecom.Business\bin\Debug\net5.0\Rookie.Ecom.Contracts.pdb
+C:\Users\Minh Ngoc\Desktop\Rookie.Ecom\Rookie.Ecom.Business\bin\Debug\net5.0\Rookie.Ecom.DataAccessor.pdb
+C:\Users\Minh Ngoc\Desktop\Rookie.Ecom\Rookie.Ecom.Business\obj\Debug\net5.0\Rookie.Ecom.Business.csprojAssemblyReference.cache
+C:\Users\Minh Ngoc\Desktop\Rookie.Ecom\Rookie.Ecom.Business\obj\Debug\net5.0\Rookie.Ecom.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Minh Ngoc\Desktop\Rookie.Ecom\Rookie.Ecom.Business\obj\Debug\net5.0\Rookie.Ecom.Business.AssemblyInfoInputs.cache
+C:\Users\Minh Ngoc\Desktop\Rookie.Ecom\Rookie.Ecom.Business\obj\Debug\net5.0\Rookie.Ecom.Business.AssemblyInfo.cs
+C:\Users\Minh Ngoc\Desktop\Rookie.Ecom\Rookie.Ecom.Business\obj\Debug\net5.0\Rookie.Ecom.Business.csproj.CoreCompileInputs.cache
+C:\Users\Minh Ngoc\Desktop\Rookie.Ecom\Rookie.Ecom.Business\obj\Debug\net5.0\Rookie.Ecom.Business.csproj.CopyComplete
+C:\Users\Minh Ngoc\Desktop\Rookie.Ecom\Rookie.Ecom.Business\obj\Debug\net5.0\Rookie.Ecom.Business.dll
+C:\Users\Minh Ngoc\Desktop\Rookie.Ecom\Rookie.Ecom.Business\obj\Debug\net5.0\ref\Rookie.Ecom.Business.dll
+C:\Users\Minh Ngoc\Desktop\Rookie.Ecom\Rookie.Ecom.Business\obj\Debug\net5.0\Rookie.Ecom.Business.pdb

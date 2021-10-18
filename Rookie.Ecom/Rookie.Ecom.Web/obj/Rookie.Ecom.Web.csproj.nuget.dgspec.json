@@ -1,0 +1,286 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Minh Ngoc\\Desktop\\Rookie.Ecom\\Rookie.Ecom.Web\\Rookie.Ecom.Web.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Minh Ngoc\\Desktop\\Rookie.Ecom\\Rookie.Ecom.Business\\Rookie.Ecom.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Minh Ngoc\\Desktop\\Rookie.Ecom\\Rookie.Ecom.Business\\Rookie.Ecom.Business.csproj",
+        "projectName": "Rookie.Ecom.Business",
+        "projectPath": "C:\\Users\\Minh Ngoc\\Desktop\\Rookie.Ecom\\Rookie.Ecom.Business\\Rookie.Ecom.Business.csproj",
+        "packagesPath": "C:\\Users\\Minh Ngoc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Minh Ngoc\\Desktop\\Rookie.Ecom\\Rookie.Ecom.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Minh Ngoc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Minh Ngoc\\Desktop\\Rookie.Ecom\\Rookie.Ecom.Contracts\\Rookie.Ecom.Contracts.csproj": {
+                "projectPath": "C:\\Users\\Minh Ngoc\\Desktop\\Rookie.Ecom\\Rookie.Ecom.Contracts\\Rookie.Ecom.Contracts.csproj"
+              },
+              "C:\\Users\\Minh Ngoc\\Desktop\\Rookie.Ecom\\Rookie.Ecom.DataAccessor\\Rookie.Ecom.DataAccessor.csproj": {
+                "projectPath": "C:\\Users\\Minh Ngoc\\Desktop\\Rookie.Ecom\\Rookie.Ecom.DataAccessor\\Rookie.Ecom.DataAccessor.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Minh Ngoc\\Desktop\\Rookie.Ecom\\Rookie.Ecom.Contracts\\Rookie.Ecom.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Minh Ngoc\\Desktop\\Rookie.Ecom\\Rookie.Ecom.Contracts\\Rookie.Ecom.Contracts.csproj",
+        "projectName": "Rookie.Ecom.Contracts",
+        "projectPath": "C:\\Users\\Minh Ngoc\\Desktop\\Rookie.Ecom\\Rookie.Ecom.Contracts\\Rookie.Ecom.Contracts.csproj",
+        "packagesPath": "C:\\Users\\Minh Ngoc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Minh Ngoc\\Desktop\\Rookie.Ecom\\Rookie.Ecom.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Minh Ngoc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Minh Ngoc\\Desktop\\Rookie.Ecom\\Rookie.Ecom.DataAccessor\\Rookie.Ecom.DataAccessor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Minh Ngoc\\Desktop\\Rookie.Ecom\\Rookie.Ecom.DataAccessor\\Rookie.Ecom.DataAccessor.csproj",
+        "projectName": "Rookie.Ecom.DataAccessor",
+        "projectPath": "C:\\Users\\Minh Ngoc\\Desktop\\Rookie.Ecom\\Rookie.Ecom.DataAccessor\\Rookie.Ecom.DataAccessor.csproj",
+        "packagesPath": "C:\\Users\\Minh Ngoc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Minh Ngoc\\Desktop\\Rookie.Ecom\\Rookie.Ecom.DataAccessor\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Minh Ngoc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Ensure.That": {
+              "target": "Package",
+              "version": "[10.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Minh Ngoc\\Desktop\\Rookie.Ecom\\Rookie.Ecom.Web\\Rookie.Ecom.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Minh Ngoc\\Desktop\\Rookie.Ecom\\Rookie.Ecom.Web\\Rookie.Ecom.Web.csproj",
+        "projectName": "Rookie.Ecom.Web",
+        "projectPath": "C:\\Users\\Minh Ngoc\\Desktop\\Rookie.Ecom\\Rookie.Ecom.Web\\Rookie.Ecom.Web.csproj",
+        "packagesPath": "C:\\Users\\Minh Ngoc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Minh Ngoc\\Desktop\\Rookie.Ecom\\Rookie.Ecom.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Minh Ngoc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Minh Ngoc\\Desktop\\Rookie.Ecom\\Rookie.Ecom.Business\\Rookie.Ecom.Business.csproj": {
+                "projectPath": "C:\\Users\\Minh Ngoc\\Desktop\\Rookie.Ecom\\Rookie.Ecom.Business\\Rookie.Ecom.Business.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
